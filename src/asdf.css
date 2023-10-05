@@ -1,0 +1,13 @@
+.button.is-primary {
+    background-color: green;
+    right: 670px;
+   top: 50px;
+   transition: transform 0.3s ease;
+} 
+.button.is-primary:hover {
+    transform: scale(1.1);
+}
+.courseForm h4.subtitle.is-3 {
+    display: flex;
+    justify-content: center;
+}
